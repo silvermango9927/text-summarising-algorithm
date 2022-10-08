@@ -6,7 +6,7 @@ An open-source extractive algorithm which can summarise and extract key bits of 
 This project hinges on the one key library which is the [Natural Language Toolkit](https://www.nltk.org). The package helps to manipulate the paragraphs and sentences to let us calculate the weighted and unweighted frequencies of words and sentences alike.
 
 ## Future Plans
-This doesn't end here though, I'm planning to tkae this project up by
+This doesn't end here though, I'm planning to take this project up by
 * Add a web interface so people can access it and summarise their paragraphs
 * Enhancing the algorithm to make it abstractive
 * Using transformers and libraries to make summaries more dynamic
